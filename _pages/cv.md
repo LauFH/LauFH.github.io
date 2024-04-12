@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+* [cv.pdf](https://github.com/laufh/laufh.github.io/files/cv.pdf)
 Education
 ======
 * M.S. in Electronic Information, University of Science and Technology of China, 2024.09-2027.06 (expected)
