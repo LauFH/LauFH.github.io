@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-* [cv.pdf](https://github.com/laufh/laufh.github.io/files/cv.pdf)
+* [cv.pdf](http://laugh.github.io/files/cv.pdf)
+  
 Education
 ======
-* M.S. in Electronic Information, University of Science and Technology of China, 2024.09-2027.06 (expected)
-* B.S. in Communication Engineering, Wuhan University of Technology, 2020.09-2024.06
+* M.S. in Electronic Information, University of Science and Technology of China(985), 2024.09-2027.06 (expected)
+* B.S. in Communication Engineering, Wuhan University of Technology(211), 2020.09-2024.06
+  * GPA:4.508 rank:2/222
 
 Work experience
 ======
